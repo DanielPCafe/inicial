@@ -71,3 +71,13 @@ header {
     font-size: 20px;
     
 }
+
+.mapa {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    gap: 20px;
+
+}
